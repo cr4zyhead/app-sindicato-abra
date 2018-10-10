@@ -1,0 +1,13 @@
+.marginCard{
+    margin: 30px;
+}
+.marginRow{
+
+    margin-bottom: 10px;
+}
+
+.marginMiddle{
+    margin: 0;
+    float: right;
+    text-align: center;
+}

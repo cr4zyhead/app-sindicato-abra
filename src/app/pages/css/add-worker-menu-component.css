@@ -1,0 +1,16 @@
+.marginElements{
+    padding: 25px;
+}
+
+.container{
+    width: 95%;
+}
+.errorMessage{
+    color: red;
+    margin: 0;
+    padding: 0 0 0 42px ;
+    text-align: left;
+    font-weight: bold;
+    font-size: xx-small;
+    position: absolute;
+}
